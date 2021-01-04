@@ -121,4 +121,4 @@ I want to keep Jekyll Now as minimal as possible. Every line of code should be o
 
 
 Enlace al replit:
-https://repl.it/@AlbertoGlezLuis/p04-t0-aprender-Jekyll#main.sh
+https://repl.it/@AlbertoGlezLuis/p04-t0-aprender-Jekyll
